@@ -8,6 +8,7 @@ Contacto: felipe@binkio.com · www.binkio.com
 
 ## Artículos recientes
 
+- [Regulación de activos virtuales en México 2026: lo que cambió y lo que sigue igual](https://www.blogweb3.com/articulos/regulacion-activos-virtuales-mexico-2026.html) (2026-10-22): La CNBV simplificó trámites para fintech y se discute llevar NFTs, DeFi y stablecoins bajo supervisión, pero la banca sigue sin poder operar activos virtuales.
 - [¿Qué es la tokenización inmobiliaria y cómo funciona?](https://www.blogweb3.com/articulos/que-es-tokenizacion-inmobiliaria.html) (2026-08-28): Una introducción clara a cómo un activo inmobiliario se puede representar como activo digital, sin perder su respaldo legal.
 - [Marco regulatorio: PSAV en México y PSAD en El Salvador](https://www.blogweb3.com/articulos/marco-regulatorio-mexico-el-salvador.html) (2026-08-28): Qué significa operar bajo licencias reguladas para la emisión e intermediación de activos digitales en ambos países.
 - [KYC, KYB y prevención de lavado de dinero en activos digitales](https://www.blogweb3.com/articulos/kyc-kyb-prevencion-lavado.html) (2026-08-28): Por qué la identificación de clientes y el monitoreo continuo son la base de cualquier operación seria con activos digitales.
