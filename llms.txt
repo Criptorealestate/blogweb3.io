@@ -1,0 +1,13 @@
+# Blog Web3
+
+> Noticias y análisis sobre Web3, activos digitales, blockchain y tokenización en México y Latinoamérica.
+
+Blog Web3 (blogweb3.com) cubre noticias, análisis y eventos sobre blockchain, activos digitales y tokenización en México y Latinoamérica. Opera de forma informativa e independiente; no es un canal de venta.
+
+Contacto: felipe@binkio.com · www.binkio.com
+
+## Artículos recientes
+
+- [¿Qué es la tokenización inmobiliaria y cómo funciona?](https://www.blogweb3.com/articulos/que-es-tokenizacion-inmobiliaria.html) (2026-08-28): Una introducción clara a cómo un activo inmobiliario se puede representar como activo digital, sin perder su respaldo legal.
+- [Marco regulatorio: PSAV en México y PSAD en El Salvador](https://www.blogweb3.com/articulos/marco-regulatorio-mexico-el-salvador.html) (2026-08-28): Qué significa operar bajo licencias reguladas para la emisión e intermediación de activos digitales en ambos países.
+- [KYC, KYB y prevención de lavado de dinero en activos digitales](https://www.blogweb3.com/articulos/kyc-kyb-prevencion-lavado.html) (2026-08-28): Por qué la identificación de clientes y el monitoreo continuo son la base de cualquier operación seria con activos digitales.

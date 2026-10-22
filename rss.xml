@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Blog Web3</title>
+  <link>https://www.blogweb3.com/</link>
+  <description>Noticias y análisis sobre Web3, activos digitales, blockchain y tokenización en México y Latinoamérica.</description>
+  <language>es-MX</language>
+  <item>
+    <title>¿Qué es la tokenización inmobiliaria y cómo funciona?</title>
+    <link>https://www.blogweb3.com/articulos/que-es-tokenizacion-inmobiliaria.html</link>
+    <guid>https://www.blogweb3.com/articulos/que-es-tokenizacion-inmobiliaria.html</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Una introducción clara a cómo un activo inmobiliario se puede representar como activo digital, sin perder su respaldo legal.</description>
+  </item>
+  <item>
+    <title>Marco regulatorio: PSAV en México y PSAD en El Salvador</title>
+    <link>https://www.blogweb3.com/articulos/marco-regulatorio-mexico-el-salvador.html</link>
+    <guid>https://www.blogweb3.com/articulos/marco-regulatorio-mexico-el-salvador.html</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Qué significa operar bajo licencias reguladas para la emisión e intermediación de activos digitales en ambos países.</description>
+  </item>
+  <item>
+    <title>KYC, KYB y prevención de lavado de dinero en activos digitales</title>
+    <link>https://www.blogweb3.com/articulos/kyc-kyb-prevencion-lavado.html</link>
+    <guid>https://www.blogweb3.com/articulos/kyc-kyb-prevencion-lavado.html</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Por qué la identificación de clientes y el monitoreo continuo son la base de cualquier operación seria con activos digitales.</description>
+  </item>
+</channel>
+</rss>
